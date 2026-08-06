@@ -41,7 +41,7 @@
 
 Projects
 <p>
-  <a href="www.petro411.com" >Petro411</a>
+  <a href="https://www.petro411.com" target="_blank" >Petro411</a>
 </p>
 
 🌐 Connect with Me
