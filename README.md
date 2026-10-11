@@ -37,7 +37,7 @@ Projects
   <a href="https://www.petro411.com" target="_blank" >Petro411</a>
 </p>
 <p>
-  <a href="https://quickpicconvert" target="_blank" >Free Online Image Converter</a>
+  <a href="https://quickpicconvert.com" target="_blank" >Free Online Image Converter</a>
 </p>
 
 🌐 Connect with Me
