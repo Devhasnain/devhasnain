@@ -32,13 +32,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
- 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainalam&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainalam&theme=radical" width="48%" />
-</p>
-
 Projects
 <p>
   <a href="https://www.petro411.com" target="_blank" >Petro411</a>
